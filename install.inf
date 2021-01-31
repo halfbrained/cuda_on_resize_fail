@@ -1,0 +1,12 @@
+[info]
+title=on_resize_fail
+desc=(Fill the description)
+type=cudatext-plugin
+subdir=cuda_on_resize_fail
+homepage=(Fill the GitHub repo URL)
+
+
+[sidebar1]
+hint=on_resize_fail
+icon={dir}/fm.png
+method=open
